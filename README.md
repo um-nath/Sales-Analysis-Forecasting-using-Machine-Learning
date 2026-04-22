@@ -76,3 +76,8 @@ This project focuses on analyzing and forecasting sales data across multiple res
 
 ---
 
+## 👤 Author
+
+**Ujjwal Manikya Nath**
+* Data Science | Machine Learning | Computer Vision
+
